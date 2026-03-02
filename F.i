@@ -1,0 +1,1 @@
+DELETE FROM Alumno WHERE Carnet= 'IP110943'

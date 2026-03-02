@@ -1,0 +1,8 @@
+UPDATE Inscripcion SET Ciclo='C2-15'
+WHERE Carnet='CD121515'
+UPDATE Inscripcion SET Ciclo='C2-15'
+WHERE Carnet='CD121515'
+UPDATE Inscripcion SET Ciclo='C2-15'
+WHERE Carnet='MC129854'
+UPDATE Inscripcion SET Ciclo='C2-15'
+WHERE Carnet='VN121415'

@@ -1,0 +1,1 @@
+DELETE FROM Inscripcion WHERE CodigoMateria= 'RD02 '
